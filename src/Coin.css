@@ -11,7 +11,7 @@
     align-items: center;
     height: 80px;
     border-bottom: 1px solid #fdfc2d;
-    width: 900px;
+    max-width: 100%;
 
 }
 
@@ -19,7 +19,6 @@
     display:flex;
     align-items:center;
     padding-right:24px;
-    
     min-width: 300px;
 
 }
@@ -74,6 +73,3 @@
     color:rgba(172, 255, 47, 0.842);
 }
 
-.copyrights{
-   padding-top: 8%;
-}
