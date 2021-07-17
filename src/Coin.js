@@ -24,12 +24,19 @@ const Coin = ({name,price,symbol,volume,image,priceChange,marketcap}) => {
 
              <p className='coin-marketcap'>
                  MKT Cap: ${marketcap.toLocaleString()}
+                 
              </p>
+             
 
                 </div>
+                
             </div> 
+            
         </div>
+       
     )
+    
 }
+
 
 export default Coin

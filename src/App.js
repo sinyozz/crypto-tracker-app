@@ -50,7 +50,7 @@ const filterCoins= coins.filter (coin => coin.name.toLowerCase().includes(search
 
         />
       )})}
-
+<h3>By Siny C.</h3>
 
     </div>
   );
