@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
+
+Take a👽👀LOOK =>>>>> https://cryptotrackersgb.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![gif from nerdy.dev](https://github.com/sinyozz/template_bug/blob/724ab11db3d54dd62b7f10b8a7c9b37b1cc022eb/bandicam%202021-08-12%2015-02-53-530%20(1).gif)
+
+
 
 ## Available Scripts
 
